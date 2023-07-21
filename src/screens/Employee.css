@@ -1,0 +1,7 @@
+.main{
+    width: 100%;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 200px 1000px;
+}
+
